@@ -2,6 +2,8 @@
 
 // @brief —v‘f‚ð•\‚·—ñ‹“Œ^
 enum Element
+
+
 {
 	// –‚–@
 	None,
